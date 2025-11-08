@@ -1,2 +1,0 @@
-# sqtils
-SQL utils
